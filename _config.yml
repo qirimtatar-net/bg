@@ -24,7 +24,7 @@ rss: rss
 
 header_pages:
   - about.md
-#  - portfolio.md
+  - simvoli.md
 
 show_excerpts: false
 
