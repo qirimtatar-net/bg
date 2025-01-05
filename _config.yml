@@ -1,2 +1,41 @@
 title: Кримскотатарската общност в България
+description: Кримскотатарската диаспора в България
+# author: 
+# email: 
+
+# social links
+# twitter_username: 
+github_username:  qirimtatar-net
+facebook_username: qirimtatar.bg
+#flickr_username: 
+# instagram_username: 
+# linkedin_username: 
+rss: rss
+# pinterest_username: jekyll
+# youtube_username: jekyll
+# googleplus_username: +jekyll
+# dribbble_username: jekyll
+
+#mastodon:
+# - username: jekyll
+#   instance: example.com
+# - username: jekyll2
+#   instance: example.com
+
+header_pages:
+  - about.md
+#  - portfolio.md
+
+show_excerpts: false
+
+# Build settings
 theme: minima
+
+# Minima date format
+# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
+minima:
+  date_format: "%Y-%m-%d"
+
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
