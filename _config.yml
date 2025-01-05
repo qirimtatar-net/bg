@@ -23,8 +23,8 @@ rss: rss
 #   instance: example.com
 
 header_pages:
-  - about.md
   - simvoli.md
+  - about.md
 
 show_excerpts: false
 
