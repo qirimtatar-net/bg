@@ -11,13 +11,16 @@ author: qirimtatar-net @ Github
 email: krimskitatari@gmail.com
 
 # social links
+social_links:
+    facebook: qirimtatar.bg
+    github: qirimtatar-net
+    rss: rss
 # twitter_username: 
 # github_username:  qirimtatar-net
 # facebook_username: qirimtatar.bg
 # flickr_username: 
 # instagram_username: 
 # linkedin_username: 
-# rss: rss
 # pinterest_username: jekyll
 # youtube_username: jekyll
 # googleplus_username: +jekyll
@@ -63,12 +66,12 @@ minima:
 # - jekyll-seo-tag
 
   # Generate social links in footer.
-  social_links:
+  # social_links:
   #  - { platform: devto,          user_url: "https://dev.to/jekyll" }
   #  - { platform: dribbble,       user_url: "https://dribbble.com/jekyll" }
-     - { platform: facebook,       user_url: "https://www.facebook.com/qirimtatar.bg" }
+  #  - { platform: facebook,       user_url: "https://www.facebook.com/qirimtatar.bg" }
   #  - { platform: flickr,         user_url: "https://www.flickr.com/photos/jekyll" }
-     - { platform: github,         user_url: "https://github.com/qirimtatar-net/bg" }
+  #  - { platform: github,         user_url: "https://github.com/qirimtatar-net/bg" }
   #  - { platform: gitlab,         user_url: "https://gitlab.com/jekyll" }
   #  - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=qc6CJjYAAAAJ" }
   #  - { platform: instagram,      user_url: "https://www.instagram.com/jekyll" }
