@@ -1,8 +1,4 @@
-source "https://rubygems.org"
+# ./Gemfile
 
-gem "jekyll"
-
-group :jekyll_plugins do
-  gem "jekyll-feed"
-  gem "jekyll-seo-tag"
-end
+# This is an example, declare the theme gem you want to use here
+gem "jekyll-theme-minima"
