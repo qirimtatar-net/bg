@@ -58,9 +58,9 @@ minima:
   # solarized	         Adaptive skin for solarized color scheme skins.
   skin: classic
 
-plugins:
- - jekyll-feed
- - jekyll-seo-tag
+#plugins:
+# - jekyll-feed
+# - jekyll-seo-tag
 
   # Generate social links in footer.
   social_links:
