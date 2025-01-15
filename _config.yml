@@ -1,38 +1,13 @@
 title: Кримскотатарската диаспора в България
-
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
   Целта ни е да споделяме информация за кримскотатарската диаспора в България. 
   Нашият уебсайт е с отворен код в Github.
   Каним всички да се присъединят към нашата мрежа.
-
 author: krimskitatari @ gmail.com 
 # email: krimskitatari@gmail.com
 # SPAM olmasın diye 
-
-
-# social links
-social_links:
-    facebook: qirimtatar.bg
-    github: qirimtatar-net
-    rss: rss
-# twitter_username: 
-# github_username:  qirimtatar-net
-# facebook_username: qirimtatar.bg
-# flickr_username: 
-# instagram_username: 
-# linkedin_username: 
-# pinterest_username: jekyll
-# youtube_username: jekyll
-# googleplus_username: +jekyll
-# dribbble_username: jekyll
-
-#mastodon:
-# - username: jekyll
-#   instance: example.com
-# - username: jekyll2
-#   instance: example.com
 
 header_pages:
   - simvoli.md
@@ -46,12 +21,10 @@ show_excerpts: false
 # As of November 2023, GitHub Pages still uses Minima 2.5.1 (https://pages.github.com/versions/). 
 # If you want to use the latest Minima version on GitHub Pages, use the following setting and 
 # add a line comment on "theme: minima" above.
-theme: minima
+# theme: minima
 
-# Minima date format
-# refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
-minima:
-  date_format: "%Y-%m-%d"
+  minima:
+    date_format: "%Y-%m-%d"
   # Minima skin selection.
   # Available skins are:
   # classic	           Default, light color scheme.
@@ -60,11 +33,11 @@ minima:
   # solarized-light	   Light variant of solarized color scheme.
   # solarized-dark	   Dark variant of solarized color scheme.
   # solarized	         Adaptive skin for solarized color scheme skins.
-  skin: dark
-
-plugins:
- - jekyll-feed
- - jekyll-seo-tag
+    skin: dark
+    social_links:
+    - { platform: github,         user_url: "https://github.com/qirimtatar-net/bg" }
+    - { platform: facebook,       user_url: "https://www.facebook.com/qirimtatar.bg" }
+    - { platform: twitter,        user_url: "https://twitter.com/krimskitatari" }
 
   # Generate social links in footer.
   # social_links:
@@ -85,9 +58,3 @@ plugins:
   #  - { platform: twitter,        user_url: "https://twitter.com/jekyllrb" }
   #  - { platform: x,              user_url: "https://x.com/jekyllrb" }
   #  - { platform: youtube,        user_url: "https://www.youtube.com/jekyll" }
-
-  minima:
-  social_links:
-    - { platform: github,         user_url: "https://github.com/qirimtatar-net/bg" }
-    - { platform: facebook,       user_url: "https://www.facebook.com/qirimtatar.bg" }
-    - { platform: twitter,        user_url: "https://twitter.com/krimskitatari" }
