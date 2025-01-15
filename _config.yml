@@ -5,7 +5,12 @@ description: >
   Целта ни е да споделяме информация за кримскотатарската диаспора в България. 
   Нашият уебсайт е с отворен код в Github.
   Каним всички да се присъединят към нашата мрежа.
-author: krimskitatari @ gmail.com 
+
+author:
+  name: qirimtatar.net
+  email: "krimskitatari @ gmail.com"
+
+# author: krimskitatari @ gmail.com 
 # email: krimskitatari@gmail.com
 # SPAM olmasın diye 
 
