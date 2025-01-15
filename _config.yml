@@ -16,7 +16,8 @@ header_pages:
 show_excerpts: false
 
 theme: minima
-  minima:
+
+minima:
     date_format: "%Y-%m-%d"
   # Minima skin selection.
   # Available skins are:
