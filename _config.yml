@@ -44,11 +44,12 @@ minima:
   # solarized-light	   Light variant of solarized color scheme.
   # solarized-dark	   Dark variant of solarized color scheme.
   # solarized	         Adaptive skin for solarized color scheme skins.
-    skin: dark
+    skin: classic
     social_links:
     - { platform: github,         user_url: "https://github.com/qirimtatar-net/bg" }
     - { platform: facebook,       user_url: "https://www.facebook.com/qirimtatar.bg" }
     - { platform: twitter,        user_url: "https://twitter.com/krimskitatari" }
+    - { platform: rss,            user_url: "https://bg.qirimtatar.net/feed.xml" }
 
   # Generate social links in footer.
   # social_links:
