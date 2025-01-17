@@ -1,18 +1,14 @@
 title: Кримскотатарската диаспора в България
+author:
+  name: Qırımtatar.Net
+  email: "krimskitatari@gmail.com"
+  
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
   Целта ни е да споделяме информация за кримскотатарската диаспора в България. 
   Нашият уебсайт е с отворен код в Github.
   Каним всички да се присъединят към нашата мрежа.
-
-author:
-  name: Qırımtatar
-  email: "krimskitatari@gmail.com"
-
-# author: krimskitatari @ gmail.com 
-# email: krimskitatari@gmail.com
-# SPAM olmasın diye 
 
 header_pages:
   - simvoli.md
