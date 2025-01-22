@@ -1,5 +1,7 @@
 ## Readme.md
 
+Mermaid ve Notes, Jekyll'de çalışmıyor.
+
 ```mermaid
 mindmap
   root((mindmap))
@@ -35,6 +37,10 @@ mindmap
 
 > [!CAUTION]
 > Advises about risks or negative outcomes of certain actions.
+
+## Kütüphane Katalogları
+
+* Регионална библиотека „Дора Габе” - Добрич [https://ilib.libdobrich.bg/bg/index.php](https://ilib.libdobrich.bg/bg/index.php)
 
 ## Изтегляне
 
