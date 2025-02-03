@@ -11,6 +11,7 @@ description: >
   Каним всички да се присъединят към нашата мрежа.
 
 header_pages:
+  - bibliography.html
   - simvoli.md
   - about.md
 
